@@ -5,4 +5,4 @@
 
 ## :memo: Snippets
 
-- _BitBucket_ **snippets**: https://bitbucket.org/snippets/png1ed/
+- _**BitBucket**_ snippets: https://bitbucket.org/snippets/png1ed/
